@@ -18,16 +18,24 @@ Rather than allocating a portion of the supply to the founding team, CRT is bein
 
 ## Pool v1
 
-Defi Farms: 500k
+**Defi Farms**: 500k
+
 JST: 40% TNqLtsso6uk7M292ewfymcaGCsZrmkW1G4
+
 ANK:10%
+
 DZI:10%
+
 PEARL: 40% TC6Fwy3ZoyRoHymb6iQAgGYRCKh16UMVib
 
-Basic Farms:500k
+**Basic Farms**:500k
+
 USDt: 60% TN56TMJeoDz8CeWMGYukE3u3YLLgqK5LaW
+
 wTRX: 20%
+
 BTT: 10%
+
 WIN: 10%
 
 ## Pool v2
