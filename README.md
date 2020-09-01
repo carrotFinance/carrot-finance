@@ -14,7 +14,7 @@ Rather than allocating a portion of the supply to the founding team, CRT is bein
 
 **Total Supply**: 5 million
 
-**Distribution**: Pool v1, Pool v2, Pool v3. Each pool lasts 14 days and has 1 million CRT allocation. The rest of the 2m token will be locked and how to deal with it is totally governed by CRT holders.
+**Distribution**: Pool v1, Pool v2, Pool v3. Each pool lasts 7 days and has 1 million CRT allocation. The rest of the 2m token will be locked and how to deal with it is totally governed by CRT holders.
 
 ## Pool v1
 
