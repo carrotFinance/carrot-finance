@@ -40,9 +40,12 @@ WIN: 10%
 
 ## Pool v2
 
-Farm 1m Carrot with Liquidity Provider tokens. 
+Farm 1m Carrot with Liquidity Provider tokens. Please note Tronscan explorer currently is unable to show LP tokens.
 
-PEARL-TRX JUSTSWAP LP: 50%
+CRT-TRX JUSTSWAP LP: 50%
+
+PEARL-TRX JUSTSWAP LP: 10%
+
 DZI-TRX JUSTSWAP LP: 10%
 
 ## Pool v3
