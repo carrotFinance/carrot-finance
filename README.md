@@ -42,6 +42,9 @@ WIN: 10%
 
 Farm 1m Carrot with Liquidity Provider tokens. 
 
+PEARL-TRX JUSTSWAP LP: 50%
+DZI-TRX JUSTSWAP LP: 10%
+
 ## Pool v3
 
 1m token Reversed.
